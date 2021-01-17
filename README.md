@@ -16,6 +16,8 @@ Terraform and Azure interaction. The code is organized in two repos:
 - https://github.com/k0kazpt/terraform-azurerm-modules
 - https://github.com/k0kazpt/terraform-azurerm-infra
 
+[More info](docs/azure/overview.md)
+
 ## **Kubernetes**
 Kubernetes tests in local or cloud clusters. Relevant repos:
 - https://github.com/k0kazpt/remote-k8s
